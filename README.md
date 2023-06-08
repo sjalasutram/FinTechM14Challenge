@@ -9,13 +9,19 @@ This challenge consists of the following subsections:
 * Write a Credit Risk Analysis Report
 
 ## Technology
-
-import numpy as np
+```
 import pandas as pd
+import numpy as np
 from pathlib import Path
-from sklearn.metrics import balanced_accuracy_score
-from sklearn.metrics import confusion_matrix, classification_report
-from imblearn.metrics import classification_report_imbalanced
+import hvplot.pandas
+import matplotlib.pyplot as plt
+from sklearn import svm
+from sklearn.preprocessing import StandardScaler
+from pandas.tseries.offsets import DateOffset
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import classification_report
+
+```
 
 * [pandas](https://pandas.pydata.org/)
 * [pathlib](https://docs.python.org/3/library/pathlib.html)
