@@ -41,6 +41,10 @@ In this challenge two predictive models were used to compare the model's accurac
 ![Model using Logistic Regression](./Resources/logreg_predictions.png)
 
 The impact of using a different model is that the accuracy of the model decreased
+The Actual Returns vs SVC model returns is better over the model that used Logistic regression.
+In the logistic regression model, the model did not fare well between the years 2017 - 2019 
+and in the later part of 2021. The actual returns and the model returns are negatively correlated
+which calls to question the accuracy of the Logistic Regression Model
 
 ## Contributors
 ---
