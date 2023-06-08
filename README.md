@@ -38,7 +38,6 @@ Run the file machine_learning_trading_bot.ipynb in a jupyter notebook
 In this challenge two predictive models were used to compare the model's accuracy in maximizing returns
 
 ![Baseline Model.](./Resources/svc_baseline_pred.png)
-
 ![Model using Logistic Regression](./Resources/logreg_predictions.png)
 
 The impact of using a different model is that the accuracy of the model decreased
