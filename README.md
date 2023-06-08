@@ -9,6 +9,8 @@ This challenge consists of the following subsections:
 * Write a Credit Risk Analysis Report
 
 ## Technology
+### Import the following libraries and modules
+
 ```
 import pandas as pd
 import numpy as np
@@ -20,9 +22,7 @@ from sklearn.preprocessing import StandardScaler
 from pandas.tseries.offsets import DateOffset
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
-
 ```
-
 * [pandas](https://pandas.pydata.org/)
 * [pathlib](https://docs.python.org/3/library/pathlib.html)
 * [numpy](https://numpy.org/)
