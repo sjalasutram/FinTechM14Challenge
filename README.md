@@ -1,12 +1,13 @@
 # FinTechM14Challenge
 Module 14 Challenge work
 
-This challenge consists of the following subsections:
+This challenge uses an algorithmic trading system and enhance its model to make it adapt to new data
+The steps for this Challenge are divided into the following sections:
 
-* Split the Data into Training and Testing Sets
-* Create a Logistic Regression Model with the Original Data
-* Predict a Logistic Regression Model with Resampled Training Data
-* Write a Credit Risk Analysis Report
+* Establish a Baseline Performance
+* Tune the Baseline Trading Algorithm
+* Evaluate a New Machine Learning Classifier
+* Create an Evaluation Report
 
 ## Technology
 ### Import the following libraries and modules
